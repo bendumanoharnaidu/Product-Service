@@ -11,6 +11,6 @@ public class Product {
     private double price;
     private Category category;
     private String description;
-    private String imageUri;
+    private String imageUrl;
 
 }
